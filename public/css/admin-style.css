@@ -1,0 +1,24 @@
+.pwd-group{
+    position: relative;
+}
+.pwd-show-btn{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #d1d1d1;
+    padding: 10px;
+}
+/* .select2-container--default .select2-selection--single 
+{
+    padding: 0;
+} */
+.select2-container .select2-selection--single
+{
+    height: 40px !important;
+}
+.color-div 
+{
+    padding: 0px 12px;
+    height: 20px;
+}
